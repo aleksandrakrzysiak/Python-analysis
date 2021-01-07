@@ -6,6 +6,7 @@ The purpose of this repository is to show my visulatisations which are the resul
 Each file solves a different problem.
 
 ## Screenshots
+Example of box plot created in Jupyter Notebook by plotly package:
 ![box plot plotly](https://user-images.githubusercontent.com/61711543/103930352-de935b80-511e-11eb-88ff-4fa31e2f2231.png)
 
 ## Technologies 
